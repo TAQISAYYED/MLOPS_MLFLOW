@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+env3/
+mlruns/
+mlartifacts/
+*.db
+arima_model.pkl
+data/raw/
+data/processed/
+.env
